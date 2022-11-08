@@ -1,0 +1,17 @@
+Wants (sorted from Technology to Media):
+- Learn about Industrial automation (PLC, Processes, IoT)
+- Develop hardware interfacing skills (protocols, interfaces)
+- Develop IoT skills (Communication protocols)
+- Learn about PCB design (Professionally)
+- Learn about Quantum Computing (Not a possibilty)
+- Develop AI & Machine Learning skills (human cognition) - This was the reason why I wanted to go to Tilburg Univesity
+- Develop technical simulation skills (Physics, mechanics, robotics)
+- Develop Graphic design skills (3D modeling, concept design)
+- Learn about Human-Tech-Interaction/UX (Human-robot-interaction, visual/physical interaction/feedback)
+
+Needs (sorted from Technology to Media):
+- A level up in embedded software engineering (Technology)
+- Develop AI & Machine Learning skills
+- A good foundation & level up in UX (Media)
+
+
